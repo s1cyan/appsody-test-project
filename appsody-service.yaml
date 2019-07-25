@@ -8,7 +8,7 @@ spec:
       revisionTemplate:
         spec:
           container:
-            image: index.docker.io/smcclem/my-appsody-image 
+            image: index.docker.io/s1cyan/my-appsody-image 
             imagePullPolicy: Always
             ports:
             - containerPort: 9080
